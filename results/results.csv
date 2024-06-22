@@ -1,0 +1,9 @@
+block,feature,validation_loss,test_loss
+block_2,mean_F2_bandwidth,0.5179165840148926,1.0896126561694675
+block_2,mean_harmonic_difference_H1_A3,0.3855263488633292,0.8470696343315972
+block_2,50th_percentile_pitch_semitone,0.18019662243979317,0.4940875669320424
+block_2,mean_harmonic_difference_H1_H2,0.45568462823118483,1.011032458808687
+block_2,mean_spectral_slope_500_1500_voiced,0.293442611183439,0.5745981799231635
+block_2,cv_mfcc3,0.7708328798413276,0.13112667575478554
+block_2,cv_spectral_flux,0.4753457746335438,0.8289549416965909
+block_2,maximal_intensity,inf,
